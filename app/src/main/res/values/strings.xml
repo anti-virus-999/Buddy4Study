@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Buddy4Study</string>
+    <string name="One">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="my_image">My Image</string>
+    <string name="inbox">Inbox</string>
+    <string name="started">Started</string>
+    <string name="sent_email">Sent Email</string>
+    <string name="drafts">Drafts</string>
+    <string name="sub_header">Sub Header</string>
+    <string name="all_mail">All Mail</string>
+    <string name="trash">Trash</string>
+    <string name="spam">Spam</string>
+    <string name="open_drawer">Open navigation drawer</string>
+    <string name="close_drawer">Close navigation drawer</string>
+
+</resources>
